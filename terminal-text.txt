@@ -1,2 +1,6 @@
 *Folder client
 1. npm install --save react-router-dom
+
+*Redux Extension
+
+debug Session - localhost:3000/?debug_session=<some_string>
