@@ -4,3 +4,8 @@
 *Redux Extension
 
 debug Session - localhost:3000/?debug_session=<some_string>
+
+
+
+cd api -> npm start
+cd client -> npm start
